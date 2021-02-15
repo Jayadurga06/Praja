@@ -7,6 +7,11 @@ public class EmpPojo {
 	int sal;
 	int id;
         
+int abc;
+public int getAbc()
+{
+return abc;
+}
 	
 	public int getId() {
 		return id;
